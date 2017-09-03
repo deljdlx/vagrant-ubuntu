@@ -1,0 +1,1 @@
+{"virtualbox":{"f3d3686f3c58e25ad1228cc52e7dca0395de905d":{"type":"virtualbox","id":"f3d3686f3c58e25ad1228cc52e7dca0395de905d","guestpath":"/shared","hostpath":"E:/shared","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"E:/shared/project/vagrant-ubuntu","disabled":false,"__vagrantfile":true}}}
